@@ -1,0 +1,15 @@
+/Users/nouralddenalmoqry/Projects/Lagerprogramm/Lagerprogramm/bin/Debug/net6.0/Lagerprogramm
+/Users/nouralddenalmoqry/Projects/Lagerprogramm/Lagerprogramm/bin/Debug/net6.0/Lagerprogramm.deps.json
+/Users/nouralddenalmoqry/Projects/Lagerprogramm/Lagerprogramm/bin/Debug/net6.0/Lagerprogramm.runtimeconfig.json
+/Users/nouralddenalmoqry/Projects/Lagerprogramm/Lagerprogramm/bin/Debug/net6.0/Lagerprogramm.dll
+/Users/nouralddenalmoqry/Projects/Lagerprogramm/Lagerprogramm/bin/Debug/net6.0/Lagerprogramm.pdb
+/Users/nouralddenalmoqry/Projects/Lagerprogramm/Lagerprogramm/obj/Debug/net6.0/Lagerprogramm.csproj.AssemblyReference.cache
+/Users/nouralddenalmoqry/Projects/Lagerprogramm/Lagerprogramm/obj/Debug/net6.0/Lagerprogramm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nouralddenalmoqry/Projects/Lagerprogramm/Lagerprogramm/obj/Debug/net6.0/Lagerprogramm.AssemblyInfoInputs.cache
+/Users/nouralddenalmoqry/Projects/Lagerprogramm/Lagerprogramm/obj/Debug/net6.0/Lagerprogramm.AssemblyInfo.cs
+/Users/nouralddenalmoqry/Projects/Lagerprogramm/Lagerprogramm/obj/Debug/net6.0/Lagerprogramm.csproj.CoreCompileInputs.cache
+/Users/nouralddenalmoqry/Projects/Lagerprogramm/Lagerprogramm/obj/Debug/net6.0/Lagerprogramm.dll
+/Users/nouralddenalmoqry/Projects/Lagerprogramm/Lagerprogramm/obj/Debug/net6.0/refint/Lagerprogramm.dll
+/Users/nouralddenalmoqry/Projects/Lagerprogramm/Lagerprogramm/obj/Debug/net6.0/Lagerprogramm.pdb
+/Users/nouralddenalmoqry/Projects/Lagerprogramm/Lagerprogramm/obj/Debug/net6.0/Lagerprogramm.genruntimeconfig.cache
+/Users/nouralddenalmoqry/Projects/Lagerprogramm/Lagerprogramm/obj/Debug/net6.0/ref/Lagerprogramm.dll
